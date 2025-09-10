@@ -3,9 +3,9 @@ package jiracmd
 import (
 	"github.com/coryb/figtree"
 	"github.com/coryb/oreo"
-	"github.com/go-jira/jira"
-	"github.com/go-jira/jira/jiracli"
-	"github.com/go-jira/jira/jiradata"
+	"github.com/luisdreisbach/jira"
+	"github.com/luisdreisbach/jira/jiracli"
+	"github.com/luisdreisbach/jira/jiradata"
 	kingpin "gopkg.in/alecthomas/kingpin.v2"
 )
 
